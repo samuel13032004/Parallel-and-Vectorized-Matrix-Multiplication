@@ -90,3 +90,4 @@ public class MatrixMultiplicationBenchmarking {
         operands.memoryPrintedVectorized = true;
     }
 }
+
